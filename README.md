@@ -1,5 +1,7 @@
 # SelectingAdapter
 
+[ ![Download](https://api.bintray.com/packages/ircover/selection-manager/selectingadapter/images/download.svg?version=1.0.0) ](https://bintray.com/ircover/selection-manager/selectingadapter/1.0.0/link)
+
 Gradle dependencies
 
     implementation 'ru.ircover.selectionmanager:core:1.1.0'
